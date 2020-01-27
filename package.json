@@ -1,3 +1,6 @@
+"scripts": {
+  "install ": "npm install",
+}
 {
   "name": "nodejs-hello-world",
   "version": "1.0.0",
